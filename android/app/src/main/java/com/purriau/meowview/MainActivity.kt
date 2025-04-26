@@ -1,4 +1,4 @@
-package com.meowview
+package com.purriau.meowview
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
